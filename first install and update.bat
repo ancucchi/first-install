@@ -36,6 +36,7 @@ winget install --no-upgrade -e --id Opera.Opera
 winget install --no-upgrade -e --id Oracle.VirtualBox 
 winget install --no-upgrade -e --id PuTTY.PuTTY 
 winget install --no-upgrade -e --id RARLab.WinRAR 
+winget install --no-upgrade -e --id RevoUninstaller.RevoUninstaller
 winget install --no-upgrade -e --id Rufus.Rufus 
 winget install --no-upgrade -e --id Skillbrains.Lightshot 
 winget install --no-upgrade -e --id Spotify.Spotify 
