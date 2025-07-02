@@ -11,6 +11,7 @@ winget install --no-upgrade -e --id Brave.Brave
 winget install --no-upgrade -e --id CPUID.CPU-Z 
 winget install --no-upgrade -e --id CodeSector.TeraCopy 
 winget install --no-upgrade -e --id Discord.Discord 
+winget install --no-upgrade -e --id Eassos.DiskGenius				                          &:: Eassos.DiskGenius
 winget install --no-upgrade -e --id Flameshot.Flameshot 
 winget install --no-upgrade -e --id Foxit.FoxitReader 
 winget install --no-upgrade -e --id Giorgiotani.Peazip 
@@ -53,11 +54,11 @@ winget install --no-upgrade -e --id GIMP.GIMP.3
 winget install --no-upgrade -e --id qBittorrent.qBittorrent 
 winget install --no-upgrade -e --id voidtools.Everything 
 winget install --no-upgrade -e --id geeksoftwareGmbH.PDF24Creator
-winget install --no-upgrade -e --id 9NBLGGH4QGHW				&:: Microsoft Sticky Notes
+winget install --no-upgrade -e --id 9NBLGGH4QGHW				                              &:: Microsoft Sticky Notes
 winget install --no-upgrade -e --id Telegram.TelegramDesktop
-winget install --no-upgrade -e --id 9NKSQGP7F2NH				&:: WhatsApp Desktop
+winget install --no-upgrade -e --id 9NKSQGP7F2NH				                              &:: WhatsApp Desktop
 winget install --no-upgrade -e --id MartiCliment.UniGetUI
-winget install --no-upgrade -e --id 9P8LTPGCBZXD				&:: Wintoys
+winget install --no-upgrade -e --id 9P8LTPGCBZXD				                              &:: Wintoys
 
 winget update
 
