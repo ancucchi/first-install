@@ -1,6 +1,7 @@
 # First Install
+
 First install of software in a new pc and update with winget
----
+
 Installing everything you need on a new PC has always been a pain in the ass for me.
 
 For years, I've solved the problem with Ninite (https://ninite.com/), which is already a godsend, but it's not the solution.
@@ -19,7 +20,8 @@ PS2: If you'd like, suggest other software to include, you'll be very welcome...
 --------------------------------
 
 # First Install
-Prima installazione di software su un nuovo PC e aggiornamento con winget
+
+**Prima installazione di software su un nuovo PC e aggiornamento con winget**
 
 Installare tutto il necessario su un nuovo PC è sempre stata una vera scocciatura per me.
 
