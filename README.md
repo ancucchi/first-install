@@ -1,6 +1,6 @@
 # First Install
 
-First install of software in a new pc and update with winget
+**First install of software in a new pc and update with winget**
 
 Installing everything you need on a new PC has always been a pain in the ass for me.
 
