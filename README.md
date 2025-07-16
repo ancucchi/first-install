@@ -19,7 +19,7 @@ PS2: If you'd like, suggest other software to include, you'll be very welcome...
 
 --------------------------------
 
-# First Install
+# Prime Installazioni
 
 **Prima installazione di software su un nuovo PC e aggiornamento con winget**
 
