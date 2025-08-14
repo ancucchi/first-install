@@ -56,7 +56,7 @@ winget install --no-upgrade -e --id TheDocumentFoundation.LibreOffice.HelpPack
 winget install --no-upgrade -e --id Valve.Steam 
 winget install --no-upgrade -e --id VideoLAN.VLC 
 winget install --no-upgrade -e --id voidtools.Everything 
-winget install --no-upgrade -e --id Wibu-Systems.CodeMeterRuntimeKit
+winget install --no-upgrade -e --id Wibu-Systems.CodeMeterRuntimeKit				             &:: Codemeter Dongle Driver
 winget install --no-upgrade -e --id WinSCP.WinSCP 
 winget install --no-upgrade -e --id WiresharkFoundation.Wireshark
 winget install --no-upgrade -e --id Zoom.Zoom 
@@ -69,4 +69,5 @@ winget update
 @echo     winget update --all
 @echo ---------------------------
 @echo per aggiornare i software...
+
 
