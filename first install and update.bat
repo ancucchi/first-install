@@ -7,6 +7,7 @@ winget install --no-upgrade -e --id 9P8LTPGCBZXD				                            
 winget install --no-upgrade -e --id AcroSoftware.CutePDFWriter 
 winget install --no-upgrade -e --id Adobe.Acrobat.Reader.64-bit 
 winget install --no-upgrade -e --id AntibodySoftware.WizTree 
+winget install --no-upgrade -e --id AppWork.JDownloader
 winget install --no-upgrade -e --id ArduinoSA.IDE.stable 
 winget install --no-upgrade -e --id Audacity.Audacity 
 winget install --no-upgrade -e --id AutoHotkey.AutoHotkey 
@@ -69,5 +70,6 @@ winget update
 @echo     winget update --all
 @echo ---------------------------
 @echo per aggiornare i software...
+
 
 
