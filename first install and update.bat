@@ -1,5 +1,5 @@
 cls
-:winget install --no-upgrade -e --id TimKosse.FilezillaClient 
+winget install --no-upgrade -e --id TimKosse.FilezillaClient 
 winget install --no-upgrade -e --id 7zip.7zip 
 winget install --no-upgrade -e --accept-package-agreements --id 9NBLGGH4QGHW				  &:: Microsoft Sticky Notes
 winget install --no-upgrade -e --id 9NKSQGP7F2NH				                              &:: WhatsApp Desktop
@@ -71,6 +71,7 @@ winget update
 @echo     winget update --all
 @echo ---------------------------
 @echo per aggiornare i software...
+
 
 
 
