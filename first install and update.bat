@@ -34,6 +34,7 @@ winget install --no-upgrade -e --id JernejSimoncic.Wget
 winget install --no-upgrade -e --id KDE.Ark 
 winget install --no-upgrade -e --id LocalSend.LocalSend 
 winget install --no-upgrade -e --id MartiCliment.UniGetUI
+winget install --no-upgrade -e --id Microsoft.Edit
 winget install --no-upgrade -e --id Microsoft.OpenSSH.Preview 
 winget install --no-upgrade -e --id Microsoft.PowerShell 
 winget install --no-upgrade -e --id Microsoft.PowerToys 
@@ -70,6 +71,7 @@ winget update
 @echo     winget update --all
 @echo ---------------------------
 @echo per aggiornare i software...
+
 
 
 
