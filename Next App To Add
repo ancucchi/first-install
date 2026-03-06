@@ -3,4 +3,8 @@ NAME                     ID                         SOURCE
 ---------------------------------------------------------------
 FileLocator Pro/Lite     Mythicsoft.FileLocator     WINGET
 Jopdf                    XPFPK89PKLBPFH             msstore
+WinDirStat               WinDirStat.WinDirStat      winget
+
+
+
 Volume2 Portable         irzyxa.Volume2Portable     winget
