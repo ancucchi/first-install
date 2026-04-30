@@ -16,7 +16,8 @@ winget install --no-upgrade -e --id Beeper.Beeper
 winget install --no-upgrade -e --id BlenderFoundation.Blender 
 winget install --no-upgrade -e --id Brave.Brave 
 winget install --no-upgrade -e --id CodeSector.TeraCopy 
-winget install --no-upgrade -e --id CPUID.CPU-Z 
+winget install --no-upgrade -e --id CPUID.CPU-Z
+winget install --no-upgrade -e --id Devolutions.UniGetUI
 winget install --no-upgrade -e --id Discord.Discord 
 winget install --no-upgrade -e --id dotPDN.PaintDotNet 
 winget install --no-upgrade -e --id Eassos.DiskGenius				                          &:: Eassos.DiskGenius
@@ -33,12 +34,12 @@ winget install --no-upgrade -e --id JAMSoftware.TreeSize
 winget install --no-upgrade -e --id JernejSimoncic.Wget 
 winget install --no-upgrade -e --id KDE.Ark 
 winget install --no-upgrade -e --id LocalSend.LocalSend 
-winget install --no-upgrade -e --id MartiCliment.UniGetUI
 winget install --no-upgrade -e --id Microsoft.Edit
 winget install --no-upgrade -e --id Microsoft.OpenSSH.Preview 
 winget install --no-upgrade -e --id Microsoft.PowerShell 
 winget install --no-upgrade -e --id Microsoft.PowerToys 
 winget install --no-upgrade -e --id Mozilla.Firefox 
+winget install --no-upgrade -e --id Mythicsoft.FileLocator
 winget install --no-upgrade -e --id Notepad++.Notepad++ 
 winget install --no-upgrade -e --id OBSProject.OBSStudio 
 winget install --no-upgrade -e --id Opera.Opera 
@@ -71,8 +72,3 @@ winget update
 @echo     winget update --all
 @echo ---------------------------
 @echo per aggiornare i software...
-
-
-
-
-
