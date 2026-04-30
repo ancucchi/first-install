@@ -1,11 +1,14 @@
 # Next App To Add
 NAME                     ID                         SOURCE
 ---------------------------------------------------------------
-FileLocator Pro/Lite     Mythicsoft.FileLocator     WINGET
 Jopdf                    XPFPK89PKLBPFH             msstore
-WinDirStat               WinDirStat.WinDirStat      winget
-FastStone                FastStone.Viewer           winget
-Mp3tag                   FlorianHeidenreich.Mp3tag  winget
 
 
 Volume2 Portable         irzyxa.Volume2Portable     winget
+
+
+
+FileLocator Pro/Lite     Mythicsoft.FileLocator     WINGET
+WinDirStat               WinDirStat.WinDirStat      winget
+FastStone                FastStone.Viewer           winget
+Mp3tag                   FlorianHeidenreich.Mp3tag  winget
